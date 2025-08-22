@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"db-home":true,"permalink":"/00-nutes/02-e-cidade/02-anotacoes/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/00-nutes/02-e-cidade/02-anotacoes/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # DB:RECURSOSHUMANOS > Pessoal > Procedimentos > Geração em Disco
